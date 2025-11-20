@@ -8,7 +8,7 @@ Rebalancing proceeds in rounds. In each round, every processor can transfer at m
 Given the number of jobs initially assigned to each processor, you are asked to determine the minimal number of rounds needed to achieve the state when every processor has the same number of jobs, or to determine that such rebalancing is not possible.
 
 Input file specification
-The input file consists of several blocks. Each block begins with a line containing a single number N (1 ≤ N ≤ 9000) - the number of processors. N numbers follow, separated by spaces and/or end of line characters. The i-th number denotes the number of jobs assigned to the i-th processor before rebalancing. There is a blank line after each block. The last block is followed by a single number -1 on a separate line (which should not be processed).
+The input file consists of several blocks. Each block begins with a line containing a single number N (1 <= N <= 9000) - the number of processors. N numbers follow, separated by spaces and/or end of line characters. The i-th number denotes the number of jobs assigned to the i-th processor before rebalancing. There is a blank line after each block. The last block is followed by a single number -1 on a separate line (which should not be processed).
 
 Output file specification
 For each block in the input file, output the minimal number of rounds needed to rebalance loads for all the processors. If it is not possible to rebalance jobs so that each processor has the same number of jobs, output -1.

@@ -8,14 +8,14 @@ He wants to mix all these mixtures together. At each step, he is going to take t
 
 When mixing two mixtures of colors a and b, the resulting mixture will have the color (a+b) mod 100.
 
-Also, there will be some smoke in the process. The amount of smoke generated when mixing two mixtures of colors a and b is a × b.
+Also, there will be some smoke in the process. The amount of smoke generated when mixing two mixtures of colors a and b is a x b.
 
 Find out what is the minimum amount of smoke that Harry can get when mixing all the mixtures together.
 
 Input
 There will be a number of test cases in the input.
 
-The first line of each test case will contain n, the number of mixtures, 1 ≤ n ≤ 100.
+The first line of each test case will contain n, the number of mixtures, 1 <= n <= 100.
 
 The second line will contain n integers between 0 and 99 - the initial colors of the mixtures.
 

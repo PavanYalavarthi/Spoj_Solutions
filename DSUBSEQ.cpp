@@ -22,7 +22,7 @@ Output:
 128
 496
 Constraints and Limits
-T ≤ 100, length(S) ≤ 100000
+T <= 100, length(S) <= 100000
 All input strings shall contain only uppercase letters.
 
 #dp

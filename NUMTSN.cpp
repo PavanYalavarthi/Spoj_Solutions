@@ -16,9 +16,9 @@ Output
 For each test case output the number of 369 numbers between A and B inclusive.
 
 Constraints
-T ≤ 100
+T <= 100
 
-1 ≤ A ≤ B ≤ 1050
+1 <= A <= B <= 1050
 
 Example
 Input:

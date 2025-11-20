@@ -13,7 +13,7 @@ Given team names and their preferred placements find one ranklist with the minim
 Input specification
 The first line of the input file contains an integer T specifying the number of test cases. Each test case is preceded by a blank line.
 
-Each test case looks as follows: The first line contains N : the number of teams participating in the competition (N ≤ 100000). Each of the next N lines contains a team name (a string of letters and numbers) and its preferred place (an integer between 1 and N, inclusive). No two team names will be equal.
+Each test case looks as follows: The first line contains N : the number of teams participating in the competition (N <= 100000). Each of the next N lines contains a team name (a string of letters and numbers) and its preferred place (an integer between 1 and N, inclusive). No two team names will be equal.
 
 Output specification
 For each of the test cases output a single line with a single integer : the badness of the best ranklist for the given teams.

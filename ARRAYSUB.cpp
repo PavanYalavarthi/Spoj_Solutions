@@ -8,11 +8,11 @@ The number n denoting number of elements in the array then after a new line we h
 
 n < 106
 k < 105
-1 ≤ k ≤ n
+1 <= k <= n
 
 and each element of the array is between 0 and 106.
 
-(Edited: In fact, n ≤ 105)
+(Edited: In fact, n <= 105)
 
 Output
 Print the output array.

@@ -29,8 +29,8 @@ Output:
 10
 10857
 Constraints
-T ≤ 1000
-0 ≤ N ≤ M ≤ 10^9
+T <= 1000
+0 <= N <= M <= 10^9
 
 #fibonacci
 */

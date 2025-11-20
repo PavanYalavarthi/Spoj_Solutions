@@ -12,7 +12,7 @@ What is the expected number of throws of his die while it has N sides so that ea
 Input
 The first line of the input contains an integer t, the number of test cases. t test cases follow.
 
-Each test case consists of a single line containing a single integer N (1 ≤ N ≤ 1000) - the number of sides on BuggyD's die.
+Each test case consists of a single line containing a single integer N (1 <= N <= 1000) - the number of sides on BuggyD's die.
 
 Output
 For each test case, print one line containing the expected number of times BuggyD needs to throw his N-sided die so that each number appears at least once. The expected number must be accurate to 2 decimal digits.

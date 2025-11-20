@@ -12,9 +12,9 @@ They want to maximize the sum of all people's travel distance. The travel distan
 Given the highways' information, it is your job to find the best plan, that maximum the total travel distance of all people.
 
 Input
-The first line of input contains one integer T (1 ≤ T ≤ 10), indicating the number of test cases.
+The first line of input contains one integer T (1 <= T <= 10), indicating the number of test cases.
 
-Each test case contains several lines. The first line contains an integer N (2 ≤ N ≤ 105), representing the number of cities. Then the following N-1 lines each contains three integers X, Y, Z (1 ≤ X, Y ≤ N, 1 ≤ Z ≤ 106), means that there is a highway between city X and city Y, and length of that highway.
+Each test case contains several lines. The first line contains an integer N (2 <= N <= 105), representing the number of cities. Then the following N-1 lines each contains three integers X, Y, Z (1 <= X, Y <= N, 1 <= Z <= 106), means that there is a highway between city X and city Y, and length of that highway.
 
 You can assume all the cities are connected and the highways are bi-directional.
 

@@ -8,7 +8,7 @@ We will ask you to perform the following operation:
 
 u v k : ask for the kth minimum weight on the path from node u to node v
 Input
-In the first line there are two integers N and M. (N, M ≤ 100000)
+In the first line there are two integers N and M. (N, M <= 100000)
 
 In the second line there are N integers. The ith integer denotes the weight of the ith node.
 

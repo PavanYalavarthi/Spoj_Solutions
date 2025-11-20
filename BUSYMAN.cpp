@@ -16,9 +16,9 @@ Output
 For each test case find the maximum number of activities that you can do.
 
 Constraints
-1 ≤ T ≤10
-1 ≤ N ≤ 100000
-0 ≤ start < end ≤ 1000000
+1 <= T <=10
+1 <= N <= 100000
+0 <= start < end <= 1000000
 
 Example
 Input

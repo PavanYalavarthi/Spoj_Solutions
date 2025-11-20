@@ -2,9 +2,9 @@
 
 Problem credits: https://www.spoj.com/problems/GSS1/
 
-You are given a sequence A[1], A[2] ... A[N] . ( |A[i]| ≤ 15007 , 1 ≤ N ≤ 50000 ). A query is defined as follows:
+You are given a sequence A[1], A[2] ... A[N] . ( |A[i]| <= 15007 , 1 <= N <= 50000 ). A query is defined as follows:
 
-Query(x, y) = Max { a[i] + a[i+1] + ... + a[j] ; x ≤ i ≤ j ≤ y }.
+Query(x, y) = Max { a[i] + a[i+1] + ... + a[j] ; x <= i <= j <= y }.
 
 Given M queries, your program must output the results of these queries.
 
