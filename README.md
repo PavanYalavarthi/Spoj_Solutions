@@ -36,6 +36,7 @@ Each file is self-contained and easy to read.
 | [BUSYMAN - I AM VERY BUSY](https://www.spoj.com/problems/BUSYMAN/) | [BUSYMAN.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/BUSYMAN.cpp) | Greedy |
 | [CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/) | [CLFLARR.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/CLFLARR.cpp) | DSU |
 | [COT - Count on a tree](https://www.spoj.com/problems/COT/) | [COT.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/COT.cpp) | Persistent Segment Tree |
+| [CSUMQ - Cumulative Sum Query](https://www.spoj.com/problems/CSUMQ/) | [CSUMQ.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/CSUMQ.cpp) | Prefix Sum |
 | [DEFKIN - Defense of a Kingdom](https://www.spoj.com/problems/DEFKIN/) | [DEFKIN.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/DEFKIN.cpp) | Greedy |
 | [DSUBSEQ - Distinct Subsequences](https://www.spoj.com/problems/DSUBSEQ/) | [DSUBSEQ.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/DSUBSEQ.cpp) | Dynamic Programming |
 | [EXPEDI - Expedition](https://www.spoj.com/problems/EXPEDI/) | [EXPEDI.cpp](https://github.com/PavanYalavarthi/Spoj_Solutions/blob/main/EXPEDI.cpp) | Greedy |
